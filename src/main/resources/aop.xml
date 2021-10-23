@@ -1,0 +1,5 @@
+<aspectj>
+    <aspects>
+        <aspect name="com.ankur.instrumentor.AppMetricsAdvice"/>
+    </aspects>
+</aspectj>
